@@ -1,0 +1,19 @@
+{
+    "name": "@abku/d1",
+    "version": "1.0.0",
+    "description": "A package that allow you to connect with Cloudflare D1.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "Cloudflare",
+      "D1",
+      "Cloudflare-D1",
+      "SQL",
+      "Database"
+    ],
+    "author": "abkux",
+    "license": "MIT"
+  }
+  
