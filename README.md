@@ -2,10 +2,6 @@
 
 A simple package that allows you to connect with Cloudflare D1 and run queries.
 
-# @abku/d1
-
-A simple package that allows you to connect with Cloudflare D1 and run queries.
-
 ### Usage
 ```js
 import { d1 } from "@abku/d1";
